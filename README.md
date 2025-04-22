@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Neural Networks Optimization for AI System-on-Chip (SoC) Implementation**
+- 🔭 Research Interests **Deep Neural Networks Optimization for Hardware-Efficient Deployment and AI System-on-Chip (SoC) Implementation**
 
-- 🌱 I’m currently researching on **Deep Neural Networks Optimization Techniques such as Model Quantization, Model Pruning, Neural Architecture Search(NAS) and Knowledge Distillation for Hardware-Efficient Deployment and Implementation.**
+- 🌱 I’m currently conducting a research on **Deep Neural Networks Optimization Techniques such as Model Quantization, Model Pruning, Neural Architecture Search(NAS) and Knowledge Distillation for Hardware-Efficient Deployment and Implementation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thaising-Taing](https://github.com/Thaising-Taing)
 
-- 📫 How to reach me **thaisingtaing@chungbuk.ac.kr**
+- 📫 How to reach me **thaisingtaing@chungbuk.ac.kr** or **thaisingtaing@gmail.com**
 
-- ⚡ Fun fact **I love traveling and photography**
+- ⚡ Fun fact **I love traveling, reading historical books and photography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
