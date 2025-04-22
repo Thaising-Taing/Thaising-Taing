@@ -9,7 +9,7 @@
 
 - 🔭 Research Interests **Deep Neural Networks Optimization for Hardware-Efficient Deployment and AI System-on-Chip (SoC) Implementation**
 
-- 🌱 I’m currently conducting a research on **Deep Neural Networks Optimization Techniques such as Model Quantization, Model Pruning, Neural Architecture Search(NAS) and Knowledge Distillation for Hardware-Efficient Deployment and Implementation.**
+- 🌱 I’m currently conducting a research on **Deep Neural Networks Optimization Techniques such as Model Quantization, Model Pruning, Neural Architecture Search(NAS) and Knowledge Distillation for Hardware-Efficient Deployment and AI SoC Implementation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thaising-Taing](https://github.com/Thaising-Taing)
 
