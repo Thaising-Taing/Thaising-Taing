@@ -5,18 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=thaising-taing&label=Profile%20views&color=0e75b6&style=flat" alt="thaising-taing" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thaising-taing" alt="thaising-taing" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge" alt="twitter follow" />
-  </a>
-</p>
-
 - 🔭 **Research Interests**:
   Stereo & Multi-View 3D Vision for Robotics,  
   Robotic Perception and Scene Understanding, 
