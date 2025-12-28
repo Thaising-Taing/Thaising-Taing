@@ -6,22 +6,20 @@
 </p>
 
 - 🔭 **Research Interests**:
-  Stereo & Multi-View 3D Vision for Robotics,  
+  Stereo 3D Vision for Robotics,  
   Robotic Perception and Scene Understanding, 
   Deep Neural Network Optimization for Hardware-Efficient Deployment,   
   AI System-on-Chip (SoC) for Edge Robotics
 
-- 🌱 **Current Research**:  
-  Model Quantization, Model Pruning, Neural Architecture Search (NAS),  
-  Knowledge Distillation for Hardware-Efficient AI,  
+- 🌱 **Current Research**:
   Stereo Depth Estimation, 3D Reconstruction, and Geometry-Aware Vision Models  
   for Real-Time Robotic Applications
+  Model Quantization, Model Pruning, Neural Architecture Search (NAS),  
+  Knowledge Distillation for Hardware-Efficient AI,  
 
 - 🤖 **Robotics & Vision Focus**:  
-  Stereo 3D Vision, Depth Estimation, Visual Odometry,  
-  3D Object Detection & Segmentation,  
-  Sensor Fusion (Stereo Camera + Depth + IMU),  
-  Perception Pipelines for Autonomous and Mobile Robots
+  3D Object Detection & Segmentation,
+  Stereo 3D Vision with Depth Estimation for Autonomous and Mobile Robots
 
 - 👨‍💻 **Projects**:  
   https://github.com/Thaising-Taing
