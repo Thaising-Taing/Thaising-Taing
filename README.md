@@ -65,15 +65,3 @@
 </p>
 
 ---
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaising-taing&layout=compact" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thaising-taing&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaising-taing" />
-</p>
